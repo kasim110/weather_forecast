@@ -46,8 +46,8 @@ This project implements user authentication (register, login, and logout) and an
 - Request Body:
     ```json
     {
-        "latitude": 37.7749,
-        "longitude": -122.4194,
+        "latitude": 18.5204,
+        "longitude": 73.8567,
         "num_days": 7
     }
     ```
